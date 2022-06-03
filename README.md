@@ -36,7 +36,8 @@ We can see here the new school summary where THS is 2nd from the top.
 
 Below we see the old school summary where THS is still 2nd from the Top.
 
-![Old School Summary](https://user-images.githubusercontent.com/103139895/171782884-629af519-0b02-4eba-ad33-79fb7e9ce3b3.PNG)
+
+![Old School Summary](https://user-images.githubusercontent.com/103139895/171788814-fb763867-8e22-4443-9b4e-03a4545e4bfd.PNG)
 
 We can see from this that there is a difference in the  Average Math Score, Average Reading Score, the % Passing Math, the % Passing Reading and the % overall passing for THS however the differences are in the order of 0.1 or 0.01 in some cases.
 
@@ -116,3 +117,8 @@ Here we see there are slight difference in the charter school scores for all 5 m
 
 ## School District Result Summary
 
+The largest differences we can see when we replaced the ninth grade data from THS is in the district summary where the % of students passing both reading and math decreased to 64.9% from 65.2%. The diference is in the magnitude of 0.3% therefore it is possible in the grand scheme this may not have a big effect, however, school board committies may rely on these metrics to gain funding from any overseeing body. This might mean that they may get more or less funding if the do or dont meet certain cuttoffs - in this case if the cuttoff was 65.0% then with the adjusted data they would no longer meet this cutoff. Another metric in this district summary reflects this potential: % Passing Math where previously the percent was 75.0% and the new percentage is 74.8%.
+
+Another change is of course in the math and reading scores by grade charts where the THS 9th grade score is replaced by nan. Here it is clear something happened to the scores and they therefore needed to be removed.
+
+Another change can be seen when looking at the charts comparing the scores by school spending where the % Passing Reading and the % Overall Passing scores decreased by 0.1% : 84.4% to 84.3% and 62.9% to 62.2% respectively.
