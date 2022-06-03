@@ -122,3 +122,5 @@ The largest differences we can see when we replaced the ninth grade data from TH
 Another change is of course in the math and reading scores by grade charts where the THS 9th grade score is replaced by nan. Here it is clear something happened to the scores and they therefore needed to be removed.
 
 Another change can be seen when looking at the charts comparing the scores by school spending where the % Passing Reading and the % Overall Passing scores decreased by 0.1% : 84.4% to 84.3% and 62.9% to 62.2% respectively.
+
+A final change can be seen when looking at the charts comparing the scores by school size where the % Passing Reading once again decreased by 0.1% : 96.8% to 96.7%. All other metrics saw no difference bigger at a bigger magnitude than 0.1%.
